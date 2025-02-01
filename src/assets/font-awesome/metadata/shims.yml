@@ -289,6 +289,4 @@ window-maximize:
   prefix: far
 window-restore:
   prefix: far
-youtube-play:
-  name: youtube
   prefix: fab
