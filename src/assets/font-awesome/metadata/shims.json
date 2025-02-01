@@ -804,16 +804,6 @@
     null,
     "sort-numeric-down-alt"
   ],
-  "161": [
-    "youtube-square",
-    "fab",
-    null
-  ],
-  "162": [
-    "youtube",
-    "fab",
-    null
-  ],
   "163": [
     "xing",
     "fab",
@@ -823,11 +813,6 @@
     "xing-square",
     "fab",
     null
-  ],
-  "165": [
-    "youtube-play",
-    "fab",
-    "youtube"
   ],
   "166": [
     "dropbox",

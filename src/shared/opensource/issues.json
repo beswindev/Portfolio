@@ -6,18 +6,18 @@
       "closed": true,
       "title": "Gradio demo for context-cluster",
       "createdAt": "2023-03-28T01:43:37Z",
-      "url": "https://github.com/ashutosh1919/context-cluster-pytorch/issues/1",
+      "url": "https://github.com/beswindev/context-cluster-pytorch/issues/1",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "context-cluster-pytorch",
-        "url": "https://github.com/ashutosh1919/context-cluster-pytorch",
+        "url": "https://github.com/beswindev/context-cluster-pytorch",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -32,8 +32,8 @@
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           },
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/78194266?u=1270684640732eaea36ac2d1725160fec0747089&v=4",
@@ -97,18 +97,18 @@
       "closed": true,
       "title": "Adding @L-Pandey as doc contributor.",
       "createdAt": "2022-03-27T22:31:19Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn/issues/1",
+      "url": "https://github.com/beswindev/explainable-cnn/issues/1",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "explainable-cnn",
-        "url": "https://github.com/ashutosh1919/explainable-cnn",
+        "url": "https://github.com/beswindev/explainable-cnn",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -117,14 +117,14 @@
       "closed": false,
       "title": "Remove react-responsive",
       "createdAt": "2022-03-13T13:49:15Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/73",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/73",
       "number": 73,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           },
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/62668827?u=6c31a500727e963282838c1570eea225a7626f6f&v=4",
@@ -135,11 +135,11 @@
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -148,7 +148,7 @@
       "closed": true,
       "title": "Remove Triangle, Square and Hexagon",
       "createdAt": "2022-03-06T19:21:21Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/60",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/60",
       "number": 60,
       "assignees": {
         "nodes": [
@@ -161,11 +161,11 @@
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -174,18 +174,18 @@
       "closed": true,
       "title": "Create seperate folder for constants",
       "createdAt": "2022-03-04T23:32:11Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/49",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/49",
       "number": 49,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -194,24 +194,24 @@
       "closed": true,
       "title": "Making reports multi-theme",
       "createdAt": "2022-03-03T22:32:44Z",
-      "url": "https://github.com/ashutosh1919/report-curator/issues/5",
+      "url": "https://github.com/beswindev/report-curator/issues/5",
       "number": 5,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "report-curator",
-        "url": "https://github.com/ashutosh1919/report-curator",
+        "url": "https://github.com/beswindev/report-curator",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -220,18 +220,18 @@
       "closed": true,
       "title": "Decouple Web app & Package",
       "createdAt": "2022-03-02T02:48:38Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/43",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/43",
       "number": 43,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -240,18 +240,18 @@
       "closed": true,
       "title": "Adding Anaghaa as a contributor for design",
       "createdAt": "2022-02-23T19:28:43Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/34",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/34",
       "number": 34,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -260,24 +260,24 @@
       "closed": true,
       "title": "FavIcon not showing in the deployed website",
       "createdAt": "2022-02-23T19:19:45Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/33",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/33",
       "number": 33,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -286,24 +286,24 @@
       "closed": true,
       "title": "Remove react from peer dependencies without crash",
       "createdAt": "2022-02-23T18:45:44Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/32",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/32",
       "number": 32,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -312,18 +312,18 @@
       "closed": true,
       "title": "Create Footer for the website",
       "createdAt": "2022-02-20T21:14:51Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/27",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/27",
       "number": 27,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -332,24 +332,24 @@
       "closed": true,
       "title": "React-Live integration to show editable code snippets on the website",
       "createdAt": "2022-02-19T20:12:29Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/24",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/24",
       "number": 24,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -358,24 +358,24 @@
       "closed": true,
       "title": "Publish NPM package for the project",
       "createdAt": "2022-02-12T18:12:43Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/14",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/14",
       "number": 14,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -384,24 +384,24 @@
       "closed": true,
       "title": "Deploying current version of web app to Netlify",
       "createdAt": "2022-02-12T18:11:57Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/13",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/13",
       "number": 13,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -410,24 +410,24 @@
       "closed": true,
       "title": "Creating deploy preview workflows",
       "createdAt": "2022-02-12T18:11:26Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/12",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/12",
       "number": 12,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -436,18 +436,18 @@
       "closed": true,
       "title": "Test issue to check Webhook integration with discord bot",
       "createdAt": "2022-02-11T19:27:08Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes/issues/6",
+      "url": "https://github.com/beswindev/react-awesome-shapes/issues/6",
       "number": 6,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "react-awesome-shapes",
-        "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+        "url": "https://github.com/beswindev/react-awesome-shapes",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -765,18 +765,18 @@
       "closed": false,
       "title": "The Hover Animation issue for What's New Button",
       "createdAt": "2021-01-13T14:45:08Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe/issues/4",
+      "url": "https://github.com/beswindev/react-liquidswipe/issues/4",
       "number": 4,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "react-liquidswipe",
-        "url": "https://github.com/ashutosh1919/react-liquidswipe",
+        "url": "https://github.com/beswindev/react-liquidswipe",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -805,18 +805,18 @@
       "closed": true,
       "title": "Need to add new social media",
       "createdAt": "2020-08-09T03:55:15Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/64",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/64",
       "number": 64,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -825,7 +825,7 @@
       "closed": true,
       "title": "Need modification in experience cards.",
       "createdAt": "2020-08-05T06:49:09Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/58",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/58",
       "number": 58,
       "assignees": {
         "nodes": [
@@ -838,11 +838,11 @@
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -851,18 +851,18 @@
       "closed": true,
       "title": "Need modifications in Experience tab cards",
       "createdAt": "2020-08-05T06:48:41Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/57",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/57",
       "number": 57,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -871,18 +871,18 @@
       "closed": false,
       "title": "Adding Theme containing gradient to every type of color",
       "createdAt": "2020-08-05T04:45:48Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/56",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/56",
       "number": 56,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -891,18 +891,18 @@
       "closed": false,
       "title": "Creation of ReadMe Doc to completely explain how to modify portfolio.js",
       "createdAt": "2020-08-05T04:25:44Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/55",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/55",
       "number": 55,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -911,18 +911,18 @@
       "closed": false,
       "title": "Org Logo",
       "createdAt": "2020-07-31T11:44:30Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/40",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/40",
       "number": 40,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -931,24 +931,24 @@
       "closed": true,
       "title": "Setting Up Workflow for the project",
       "createdAt": "2020-04-23T12:06:14Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/2",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/2",
       "number": 2,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-            "name": "Ashutosh Hathidara",
-            "url": "https://github.com/ashutosh1919"
+            "name": "Roman Dziniruk",
+            "url": "https://github.com/beswindev"
           }
         ]
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -1095,18 +1095,18 @@
       "closed": true,
       "title": "Add Animations to Pinned Projects ",
       "createdAt": "2020-04-01T06:24:47Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/1",
+      "url": "https://github.com/beswindev/masterPortfolio/issues/1",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },

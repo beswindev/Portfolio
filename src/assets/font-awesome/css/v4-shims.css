@@ -986,16 +986,6 @@
   content: "\f886";
 }
 
-.fa.fa-youtube-square {
-  font-family: "Font Awesome 5 Brands";
-  font-weight: 400;
-}
-
-.fa.fa-youtube {
-  font-family: "Font Awesome 5 Brands";
-  font-weight: 400;
-}
-
 .fa.fa-xing {
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
@@ -1004,15 +994,6 @@
 .fa.fa-xing-square {
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
-}
-
-.fa.fa-youtube-play {
-  font-family: "Font Awesome 5 Brands";
-  font-weight: 400;
-}
-
-.fa.fa-youtube-play:before {
-  content: "\f167";
 }
 
 .fa.fa-dropbox {

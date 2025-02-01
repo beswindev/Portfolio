@@ -196,7 +196,6 @@ audio-video:
     - volume-mute
     - volume-off
     - volume-up
-    - youtube
   label: Audio & Video
 automotive:
   icons:

@@ -96,11 +96,11 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
       "title": "Setting up complete workflow for project",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/4",
+      "url": "https://github.com/beswindev/masterPortfolio/pull/4",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
+        "url": "https://github.com/beswindev",
         "login": "ashutosh1919"
       },
       "createdAt": "2020-04-23T12:48:04Z",
@@ -110,22 +110,22 @@
       "deletions": 47,
       "baseRepository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
       "title": "Test PR to setup workflow",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/3",
+      "url": "https://github.com/beswindev/masterPortfolio/pull/3",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
+        "url": "https://github.com/beswindev",
         "login": "ashutosh1919"
       },
       "createdAt": "2020-04-23T12:24:42Z",
@@ -135,11 +135,11 @@
       "deletions": 0,
       "baseRepository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/beswindev/masterPortfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -2119,11 +2119,11 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5",
       "title": "Comments",
-      "url": "https://github.com/ashutosh1919/mentornet/pull/1",
+      "url": "https://github.com/beswindev/mentornet/pull/1",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
+        "url": "https://github.com/beswindev",
         "login": "ashutosh1919"
       },
       "createdAt": "2019-07-26T05:23:10Z",
@@ -2133,11 +2133,11 @@
       "deletions": 0,
       "baseRepository": {
         "name": "mentornet",
-        "url": "https://github.com/ashutosh1919/mentornet",
+        "url": "https://github.com/beswindev/mentornet",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/beswindev"
         }
       }
     },
@@ -2278,7 +2278,7 @@
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
+        "url": "https://github.com/beswindev",
         "login": "ashutosh1919"
       },
       "createdAt": "2019-06-15T05:19:37Z",

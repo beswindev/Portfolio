@@ -20750,31 +20750,6 @@ yoast:
     - brands
   unicode: f2b1
   voted: false
-youtube:
-  changes:
-    - "3.2"
-    - 5.0.0
-  label: YouTube
-  search:
-    terms:
-      - film
-      - video
-      - youtube-play
-      - youtube-square
-  styles:
-    - brands
-  unicode: f167
-  voted: false
-youtube-square:
-  changes:
-    - 5.0.3
-  label: YouTube Square
-  search:
-    terms: []
-  styles:
-    - brands
-  unicode: f431
-  voted: false
 zhihu:
   changes:
     - 5.2.0

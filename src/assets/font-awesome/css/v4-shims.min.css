@@ -703,17 +703,6 @@
 .fa.fa-sort-numeric-desc:before {
   content: "\f886";
 }
-.fa.fa-xing,
-.fa.fa-xing-square,
-.fa.fa-youtube,
-.fa.fa-youtube-play,
-.fa.fa-youtube-square {
-  font-family: "Font Awesome 5 Brands";
-  font-weight: 400;
-}
-.fa.fa-youtube-play:before {
-  content: "\f167";
-}
 .fa.fa-adn,
 .fa.fa-bitbucket,
 .fa.fa-bitbucket-square,
