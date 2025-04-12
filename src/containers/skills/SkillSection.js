@@ -29,11 +29,7 @@ class SkillSection extends Component {
               <Fade left duration={2000}>
                 <div className="skills-image-div">
                   {/* <img
-<<<<<<< HEAD
                     alt="Bohdan is Analysing Data"
-=======
-                    alt="Ashutosh is Analysing Data"
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
                     src={require(`../../assets/images/${skill.imagePath}`)}
                   ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
