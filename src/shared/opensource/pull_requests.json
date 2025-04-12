@@ -96,20 +96,12 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
       "title": "Setting up complete workflow for project",
-<<<<<<< HEAD
       "url": "https://github.com/beswindev/portfolio/pull/4",
-=======
-      "url": "https://github.com/beswindev/masterPortfolio/pull/4",
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
         "url": "https://github.com/beswindev",
-<<<<<<< HEAD
         "login": "Bohdan1919"
-=======
-        "login": "ashutosh1919"
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
       },
       "createdAt": "2020-04-23T12:48:04Z",
       "number": 4,
@@ -117,19 +109,11 @@
       "additions": 38,
       "deletions": 47,
       "baseRepository": {
-<<<<<<< HEAD
         "name": "portfolio",
         "url": "https://github.com/beswindev/portfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "Bohdan1919",
-=======
-        "name": "masterPortfolio",
-        "url": "https://github.com/beswindev/masterPortfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
           "url": "https://github.com/beswindev"
         }
       }
@@ -137,20 +121,12 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
       "title": "Test PR to setup workflow",
-<<<<<<< HEAD
       "url": "https://github.com/beswindev/portfolio/pull/3",
-=======
-      "url": "https://github.com/beswindev/masterPortfolio/pull/3",
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
         "url": "https://github.com/beswindev",
-<<<<<<< HEAD
         "login": "Bohdan1919"
-=======
-        "login": "ashutosh1919"
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
       },
       "createdAt": "2020-04-23T12:24:42Z",
       "number": 3,
@@ -158,19 +134,11 @@
       "additions": 32,
       "deletions": 0,
       "baseRepository": {
-<<<<<<< HEAD
         "name": "portfolio",
         "url": "https://github.com/beswindev/portfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "Bohdan1919",
-=======
-        "name": "masterPortfolio",
-        "url": "https://github.com/beswindev/masterPortfolio",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-          "login": "ashutosh1919",
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
           "url": "https://github.com/beswindev"
         }
       }
@@ -2156,11 +2124,7 @@
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
         "url": "https://github.com/beswindev",
-<<<<<<< HEAD
         "login": "Bohdan1919"
-=======
-        "login": "ashutosh1919"
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
       },
       "createdAt": "2019-07-26T05:23:10Z",
       "number": 1,
@@ -2172,11 +2136,7 @@
         "url": "https://github.com/beswindev/mentornet",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-<<<<<<< HEAD
           "login": "Bohdan1919",
-=======
-          "login": "ashutosh1919",
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
           "url": "https://github.com/beswindev"
         }
       }
@@ -2319,11 +2279,7 @@
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
         "url": "https://github.com/beswindev",
-<<<<<<< HEAD
         "login": "Bohdan1919"
-=======
-        "login": "ashutosh1919"
->>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
       },
       "createdAt": "2019-06-15T05:19:37Z",
       "number": 2,
