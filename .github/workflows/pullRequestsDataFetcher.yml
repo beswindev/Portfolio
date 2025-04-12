@@ -13,7 +13,11 @@ jobs:
         id: get_pull_requests
         with:
           query: |
+<<<<<<< HEAD
             query user(login: "Bohdan1919") {
+=======
+            query user(login: "ashutosh1919") {
+>>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
               pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
                 totalCount
                 nodes {

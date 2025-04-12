@@ -1,6 +1,10 @@
 {
   "private": true,
+<<<<<<< HEAD
   "name": "portfolio",
+=======
+  "name": "masterPortfolio",
+>>>>>>> d49ca6a217c33cb354c6115ecce79293020073e7
   "version": "0.1.0",
   "homepage": ".",
   "scripts": {
