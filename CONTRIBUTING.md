@@ -1,6 +1,6 @@
-# 🚀 Contributing to the MasterPortfolio Project
+# 🚀 Contributing to the portfolio Project
 
-Thank you for considering contributing to the MasterPortfolio project! Your help is greatly appreciated. 😊
+Thank you for considering contributing to the portfolio project! Your help is greatly appreciated. 😊
 
 ## 🤝 How to Contribute
 
@@ -8,20 +8,20 @@ Here are some fun and precise steps to get you started:
 
 1. **Fork the Repository** 🍴
 
-   - Click the "Fork" button on the top right of the [MasterPortfolio repository](https://github.com/beswindev/masterPortfolio) page on GitHub. This will create a copy of the project in your own GitHub account.
+   - Click the "Fork" button on the top right of the [portfolio repository](https://github.com/beswindev/portfolio) page on GitHub. This will create a copy of the project in your own GitHub account.
 
 2. **Clone Your Fork** 🧙‍♂️
 
    - In your terminal, run the following command to clone your fork to your local machine:
      ```
-     git clone https://github.com/YourUsername/masterPortfolio.git
+     git clone https://github.com/YourUsername/portfolio.git
      ```
 
 3. **Switch to the Project Directory** 📁
 
    - Move into the project directory using:
      ```
-     cd masterPortfolio
+     cd portfolio
      ```
 
 4. **Move to Gatsby** 🚀
@@ -70,12 +70,12 @@ Here are some fun and precise steps to get you started:
     - Go to your fork on GitHub, and click the "New Pull Request" button. Follow the prompts, and submit your changes for review.
 
 13. **Celebrate** 🎉
-    - You've contributed to the MasterPortfolio project! Thanks for your hard work and dedication.
+    - You've contributed to the portfolio project! Thanks for your hard work and dedication.
 
 ## 📌 Issues
 
-If you encounter any issues or have ideas for improvements, please open an [issue](https://github.com/beswindev/masterPortfolio/issues) and let us know.
+If you encounter any issues or have ideas for improvements, please open an [issue](https://github.com/beswindev/portfolio/issues) and let us know.
 
 ## 🙏 Thank You
 
-We appreciate your contribution and look forward to working together to make the MasterPortfolio project even better! 😄🚀
+We appreciate your contribution and look forward to working together to make the portfolio project even better! 😄🚀

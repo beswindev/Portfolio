@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "ashutosh1919",
+      "login": "Bohdan1919",
       "name": "Roman Dziniruk",
       "avatar_url": "https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-      "profile": "http://ashutosh1919.github.io",
+      "profile": "http://Bohdan1919.github.io",
       "contributions": [
         "code",
         "doc",
@@ -76,7 +76,7 @@
     },
     {
       "login": "a-mishra",
-      "name": "Ashutosh Mishra",
+      "name": "Bohdan Mishra",
       "avatar_url": "https://avatars0.githubusercontent.com/u/10567548?v=4",
       "profile": "http://a-mishra.github.io",
       "contributions": [
@@ -348,8 +348,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "masterPortfolio",
-  "projectOwner": "ashutosh1919",
+  "projectName": "portfolio",
+  "projectOwner": "Bohdan1919",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
